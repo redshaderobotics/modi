@@ -1,0 +1,26 @@
+<annotation>
+	<folder>modi</folder>
+	<filename>13.jpg</filename>
+	<path>C:\Users\Vimal\Documents\Vimal\learn\myprojects\mydataset\modi\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>modi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>26</ymin>
+			<xmax>526</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
